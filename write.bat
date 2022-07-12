@@ -1,4 +1,5 @@
 @echo off
-@echo Hello World> fun.txt
-echo wrote
+set text=Hello World 
+@echo %text%> fun.txt
+echo wrote [ %text%]
 pause
