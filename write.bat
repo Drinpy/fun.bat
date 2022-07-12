@@ -1,5 +1,5 @@
 @echo off
-set text=Hello World 
+set /p text=Enter some text: 
 @echo %text%> fun.txt
-echo wrote [ %text%]
+echo wrote [ %text% ]
 pause
