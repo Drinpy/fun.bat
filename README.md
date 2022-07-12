@@ -1,2 +1,3 @@
 ## .bat
 Aparentemente só funciona no Windows...
+<q>bat files are windows shell scripts.</q>
